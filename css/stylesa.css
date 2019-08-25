@@ -10,11 +10,26 @@ html {
   background-image: url("../images/leaves bg.png");
 }
 
+.icon {
+  width: 60px;
+  height:60px;
+}
+
+.iicon {
+  width: 70px;
+  height: 50px;
+}
+
+.iconf {
+  width:45px;
+  height: 45px;
+}
+
 h2 {
-  text-align: center;
   font-family: Broadway;
 }
 
-h3 {
-  padding: 30px
+.contact {
+  margin: auto;
+  text-align: center;
 }
