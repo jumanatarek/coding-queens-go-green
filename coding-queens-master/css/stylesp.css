@@ -3,6 +3,7 @@ body {
   color:rgb(57, 85, 43);
   margin: 80px;
   font-family: arial;
+  padding: 0px;
 }
 
 
@@ -11,5 +12,27 @@ html {
 }
 
 h1 {
-  text-align: center;
+  font-family: Broadway;
+}
+
+.turtle {
+  width:300px;
+  height:150px;
+}
+
+.whale {
+  width:300px;
+  height:150px;
+  margin-top: 20px;
+}
+
+.trees {
+  width:300px;
+  height:150px;
+  margin-top: 20px;
+}
+
+.plastic {
+  width:300px;
+  height:150px;
 }

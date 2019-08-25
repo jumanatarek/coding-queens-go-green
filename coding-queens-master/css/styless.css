@@ -12,4 +12,9 @@ html {
 
 h2 {
   text-align: center;
+  font-family: Broadway;
+}
+
+h3 {
+  padding: 30px
 }

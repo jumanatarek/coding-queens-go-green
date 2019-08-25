@@ -9,3 +9,27 @@ body {
 html {
   background-image: url("../images/leaves bg.png");
 }
+
+.icon {
+  width: 60px;
+  height:60px;
+}
+
+.iicon {
+  width: 70px;
+  height: 50px;
+}
+
+.iconf {
+  width:45px;
+  height: 45px;
+}
+
+h4 {
+  font-family: Broadway;
+}
+
+.contact {
+  margin: auto;
+  text-align: center;
+}
