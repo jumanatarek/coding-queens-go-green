@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(244, 260, 255);
+  color:rgb(57, 85, 43);
+  margin: 80px;
+  font-family: arial;
+}
+
+
+html {
+  background-image: url("../images/leaves bg.png");
+}
+
+h3{
+  font-family: broadway;
+}
